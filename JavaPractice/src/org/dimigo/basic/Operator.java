@@ -17,7 +17,6 @@ package org.dimigo.basic;
  */
 public class Operator
 {
-
 	public static void main(String[] args)
 	{
 		int money = 1700000;
