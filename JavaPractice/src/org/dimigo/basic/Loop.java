@@ -29,6 +29,7 @@ public class Loop
 		Scanner scanner = new Scanner(System.in); 			//[System. in] > sys에서 입력을 받는다는 뜻
 		while(choice != 9)
 		{
+			
 			int rand = new Random().nextInt(4);
 			System.out.println("--------------------");
 			System.out.println("<< Game Menu >>");
