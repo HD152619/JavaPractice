@@ -28,7 +28,7 @@ public class Loop
 		String[] cha = {"마법사", "영주", "기사", "농민"};
 		Scanner scanner = new Scanner(System.in); 			//[System. in] > sys에서 입력을 받는다는 뜻
 		while(choice != 9)
-		{
+		{  
 			
 			int rand = new Random().nextInt(4);
 			System.out.println("--------------------");
