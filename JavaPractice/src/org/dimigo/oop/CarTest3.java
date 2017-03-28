@@ -26,7 +26,7 @@ public class CarTest3
 	public static void main(String[] args)
 	{
 		Car3 car2 = new Car3();
-		
+		 
 		System.out.println("<< 자동차 목록 >>");
 		System.out.println("제조사명 : " + car2.gettitle());
 		System.out.println("모델명 : " + car2.getmodel());

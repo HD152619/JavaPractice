@@ -38,7 +38,7 @@ public class Car3
 	public Car3(String title, String model, String color, int maxspeed)
 	{
 		this(title, model, color, maxspeed, 0);
-	}
+	} 
 	public Car3(String title, String model, String color)
 	{
 		this(title, model, color, 0);
